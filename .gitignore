@@ -1,0 +1,6 @@
+system_ext/priv-app/Settings/Settings.apk
+bootimg/01_dtbdump_MT6893.dtb
+system/system/apex/com.android.vndk.current.apex
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+boot.img
+product/priv-app/Velvet/Velvet.apk
